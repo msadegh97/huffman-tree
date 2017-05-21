@@ -7,7 +7,6 @@ This project is the final project of Course Data-structure.
 git clone https://github.com/msadegh97/huffman-tree.git
 cd huffman
 cmake CMakeLists.txt && make
-jj
 ```
 
 
